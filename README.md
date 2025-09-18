@@ -50,3 +50,4 @@ python -m http.server 8000
 This project is provided as-is. Feel free to use and modify it for learning and personal projects.
 
 Author: BeterMain
+CSS inspired from Coding Artist
